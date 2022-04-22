@@ -15,3 +15,6 @@
 Our result tables can be seen [here](https://github.com/esem2022-copilot/-An-Empirical-Evaluation-of-GitHub-Copilot-s-Code-Generation-/blob/main/misc/Copilot_Results.pdf) (pdf format) and [here](https://github.com/esem2022-copilot/-An-Empirical-Evaluation-of-GitHub-Copilot-s-Code-Generation-/blob/main/misc/Copilot_Results.xlsx) (xlsx format).
 
 The list of the articles on GitHub Copilot we checked can be seen [here](https://github.com/esem2022-copilot/-An-Empirical-Evaluation-of-GitHub-Copilot-s-Code-Generation-/blob/main/misc/article_names_and_links.pdf).
+
+##
+The results for the additional experiments, in which (1) Dummy function names are used (2) Prompts for the problems are removed the results can be viewed here: [xlsx](https://github.com/esem2022-copilot/-An-Empirical-Evaluation-of-GitHub-Copilot-s-Code-Generation-/blob/main/misc/Function_signature_experiments.xlsx) [pdf](https://github.com/esem2022-copilot/-An-Empirical-Evaluation-of-GitHub-Copilot-s-Code-Generation-/blob/main/misc/Function_signature_experiments.pdf)
