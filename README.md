@@ -12,6 +12,6 @@
 - Run [experiment.py](https://github.com/ease22-sub39/An-Empirical-Evaluation-of-GitHub-Copilot-s-Code-Generation/blob/main/experiment.py)
  --> *python experiment.py*
 ##
-Our result tables can be seen [here](https://github.com/ease22-sub39/An-Empirical-Evaluation-of-GitHub-Copilot-s-Code-Generation/blob/main/misc/Copilot_Results.pdf) (pdf format) and [here](https://github.com/ease22-sub39/An-Empirical-Evaluation-of-GitHub-Copilot-s-Code-Generation/blob/main/misc/Copilot_Results.xlsx) (xlsx format).
+Our result tables can be seen [here](https://github.com/esem2022-copilot/-An-Empirical-Evaluation-of-GitHub-Copilot-s-Code-Generation-/blob/main/misc/Copilot_Results.pdf) (pdf format) and [here](https://github.com/esem2022-copilot/-An-Empirical-Evaluation-of-GitHub-Copilot-s-Code-Generation-/blob/main/misc/Copilot_Results.xlsx) (xlsx format).
 
-The list of the articles on GitHub Copilot we checked can be seen [here](https://github.com/ease22-sub39/An-Empirical-Evaluation-of-GitHub-Copilot-s-Code-Generation/blob/main/misc/article_names_and_links.pdf).
+The list of the articles on GitHub Copilot we checked can be seen [here](https://github.com/esem2022-copilot/-An-Empirical-Evaluation-of-GitHub-Copilot-s-Code-Generation-/blob/main/misc/article_names_and_links.pdf).
